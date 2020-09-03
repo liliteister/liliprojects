@@ -44,8 +44,8 @@ ui <- fluidPage(theme = shinytheme("yeti"),
       tabsetPanel(
         tabPanel("Charts",
                  plotOutput("stateplot")),
-        tabPanel("Tables",
-                 dataTableOutput("statetable")),
+        tabPanel("Table",
+                 DT::dataTableOutput("statetable")),
         tabPanel("Dataset Info",
                  tags$blockquote(paste("This data set contains statistics, in arrests per 100,000 residents for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas.",
                        "World Almanac and Book of facts 1975. (Crime rates).")
@@ -86,7 +86,8 @@ server <- function(input, output, session){
   
   })
   
-  output$statetable <- renderDataTable(USArrests)
+  output$statetable <- DT::renderDataTable(USArrests,
+                                           filter = "top")
   
 }
 
