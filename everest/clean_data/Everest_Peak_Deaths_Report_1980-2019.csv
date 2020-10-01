@@ -1,0 +1,257 @@
+"Peak","Name","Season","Date","Time","Citizenship","Sex","Age","Oxy","Smt","Cause.of.Death","Year"
+"EVER","Akira Ube","1980 Spr","May 02","","Japan","M",31,TRUE,FALSE,"Avalanche (8300m)",1980
+"EVER","Mario (Franco) Piana","1980 Aut","Sep 22","10:30","Italy","M",37,FALSE,FALSE,"Avalanche (6400m)",1980
+"EVER","Nawang Kersang Sherpa","1980 Aut","Sep 06","6:00","Nepal","M",0,FALSE,FALSE,"Icefall Collapse (5700m)",1980
+"EVER","Noboru Takenaka","1980 Win","Jan 12","10:00","Japan","M",28,FALSE,FALSE,"Fall (6800m)",1980
+"EVER","Ang Chuldin Sherpa (Khumjung, Khumbu)","1982 Aut","Aug 31","5:30","Nepal","M",20,FALSE,FALSE,"Avalanche (5600m)",1982
+"EVER","Dawa Dorje Sherpa (Thami, Khumbu)","1982 Aut","Aug 31","5:30","Nepal","M",42,FALSE,FALSE,"Avalanche (5600m)",1982
+"EVER","George Blair Griffiths","1982 Aut","Sep 02","9:00","Canada","M",33,FALSE,FALSE,"Icefall Collapse (5800m)",1982
+"EVER","Joseph Thomas (Joe) Tasker","1982 Spr","May 17","","UK","M",34,FALSE,FALSE,"Disappearance (8230m)",1982
+"EVER","Lhakpa Tshering Sherpa (Namche Bazar, Khumbu)","1982 Aut","Sep 27","13:30","Nepal","M",38,FALSE,FALSE,"Illness (non-AMS) (6770m)",1982
+"EVER","Mary Francis (Marty) Hoey","1982 Spr","May 15","17:30","United States of America","F",30,FALSE,FALSE,"Fall (7950m)",1982
+"EVER","Nima Dorje Sherpa","1982 Aut","Oct 14","10:30","Nepal","M",22,TRUE,FALSE,"Fall (8300m)",1982
+"EVER","Pasang Sana Sherpa (Khunde, Khumbu)","1982 Aut","Aug 31","5:30","Nepal","M",30,FALSE,FALSE,"Avalanche (5600m)",1982
+"EVER","Peter David Boardman","1982 Spr","May 17","","UK","M",31,FALSE,FALSE,"Disappearance (8230m)",1982
+"EVER","Toshiaki Kobayashi","1982 Win","Dec 28","","Japan","M",34,TRUE,FALSE,"Fall (8800m)",1982
+"EVER","Yasuo Kato","1982 Win","Dec 28","","Japan","M",33,TRUE,TRUE,"Fall (8800m)",1982
+"EVER","Hironobu Kamuro","1983 Aut","Oct 08","18:00","Japan","M",31,FALSE,TRUE,"Fall (8800m)",1983
+"EVER","Hiroshi Yoshino","1983 Aut","Oct 09","6:30","Japan","M",33,FALSE,TRUE,"Fall (8800m)",1983
+"EVER","Pasang Temba Sherpa","1983 Aut","Oct 08","17:00","Nepal","M",0,FALSE,FALSE,"Fall (8600m)",1983
+"EVER","Ang Dorje Sherpa (Thamo, Khumbu)","1984 Aut","Oct 24","10:00","Nepal","M",35,FALSE,FALSE,"Fall (8400m)",1984
+"EVER","Ang Rinji Sherpa (Rimijung (Phakding), Khumbu)","1984 Spr","Mar 26","8:08","Nepal","M",49,FALSE,FALSE,"Avalanche (5600m)",1984
+"EVER","Anthony Mark (Tony) Swierzy","1984 Spr","Apr 03","6:15","UK","M",27,FALSE,FALSE,"Avalanche (6500m)",1984
+"EVER","Christo Ivanov Prodanov","1984 Spr","Apr 21","","Bulgaria","M",41,FALSE,TRUE,"Exposure/Frostbite (8600m)",1984
+"EVER","Craig Rupert Nottle","1984 Aut","Oct 09","7:30","Australia","M",23,FALSE,FALSE,"Fall (8140m)",1984
+"EVER","Jangbir Rai","1984 Spr","Mar 28","","Nepal","M",0,FALSE,FALSE,"AMS (4900m)",1984
+"EVER","Jozef Psotka","1984 Aut","Oct 15","","Czechoslovakia","M",50,FALSE,TRUE,"Fall (7900m)",1984
+"EVER","William Robert (Fred) From","1984 Aut","Oct 09","8:30","Australia","M",28,FALSE,FALSE,"Fall (8140m)",1984
+"EVER","Yogendra Bahadur Thapa","1984 Aut","Oct 24","10:00","Nepal","M",36,TRUE,FALSE,"Fall (8400m)",1984
+"EVER","Jai Bahaguna","1985 Aut","Oct 10","","India","M",37,TRUE,FALSE,"Exposure/Frostbite (7900m)",1985
+"EVER","Juanjo Navarro","1985 Spr","May 12","","Spain","M",0,FALSE,FALSE,"Fall (7500m)",1985
+"EVER","Kiran Inder Kumar","1985 Aut","Oct 07","15:30","India","M",40,TRUE,FALSE,"Fall (8500m)",1985
+"EVER","Maddirati Uday Bhaskar Rao","1985 Aut","Oct 10","","India","M",24,TRUE,FALSE,"Exposure/Frostbite (7900m)",1985
+"EVER","Ranmit Singh Bakshi","1985 Aut","Oct 10","","India","M",24,TRUE,FALSE,"Exposure/Frostbite (7950m)",1985
+"EVER","Shinichi Ishii","1985 Aut","Sep 17","","Japan","M",33,FALSE,FALSE,"Avalanche (6900m)",1985
+"EVER","Vijay Pal Singh Negi","1985 Aut","Oct 10","","India","M",28,TRUE,FALSE,"Exposure/Frostbite (7900m)",1985
+"EVER","Dawa Norbu Sherpa (Yilajung, Khumbu)","1986 Aut","Oct 17","","Nepal","M",29,FALSE,FALSE,"Avalanche (6600m)",1986
+"EVER","Gyalu Sherpa","1986 Aut","Oct 04","","Nepal","M",25,FALSE,FALSE,"Icefall Collapse (5700m)",1986
+"EVER","Simon Burkhardt","1986 Aut","Sep 28","","Switzerland","M",51,TRUE,FALSE,"Avalanche (7500m)",1986
+"EVER","Tsuttin Dorji Sherpa","1986 Win","Jan 30","","Nepal","M",21,FALSE,FALSE,"Fall (7500m)",1986
+"EVER","Victor-Hugo Trujillo","1986 Sum","Aug 16","","Chile","M",22,FALSE,FALSE,"Fall (7000m)",1986
+"EVER","Mangal Singh (Nima) Tamang","1987 Aut","Oct 20","","Nepal","M",30,FALSE,FALSE,"Avalanche (5800m)",1987
+"EVER","Masao Yokoyama","1987 Aut","Sep 02","","Japan","M",0,FALSE,FALSE,"Other (5400m)",1987
+"EVER","Roger Gough Marshall","1987 Spr","May 21","10:00","Canada","M",45,FALSE,FALSE,"Fall (6400m)",1987
+"EVER","Dusan Becik","1988 Aut","Oct 17","17:30","Czechoslovakia","M",34,FALSE,FALSE,"Fall (8300m)",1988
+"EVER","Hidetaka Mizukoshi","1988 Spr","Apr 21","10:00","Japan","M",48,FALSE,FALSE,"Illness (non-AMS) (5350m)",1988
+"EVER","Jaroslav Jasko","1988 Aut","Oct 17","17:30","Czechoslovakia","M",26,FALSE,FALSE,"Fall (8300m)",1988
+"EVER","Jozef Just","1988 Aut","Oct 17","17:30","Czechoslovakia","M",33,FALSE,TRUE,"Fall (8300m)",1988
+"EVER","Lhakpa Dorje (Ang Lhakpa) Sherpa (Khunde, Khumbu)","1988 Win","Dec 23","8:00","Nepal","M",29,TRUE,FALSE,"Fall (8700m)",1988
+"EVER","Lhakpa Sonam Sherpa (Makalu-Barun)","1988 Aut","Oct 13","","Nepal","M",30,TRUE,TRUE,"Fall (8500m)",1988
+"EVER","Michel Parmentier","1988 Aut","Sep 20","","France","M",38,FALSE,FALSE,"Exposure/Frostbite (7700m)",1988
+"EVER","Narayan Kumar Shrestha","1988 Aut","Sep 21","6:15","Nepal","M",28,FALSE,FALSE,"Avalanche (7270m)",1988
+"EVER","Pasang Temba Sherpa (Makalu-Barun (or Khumjung, Khumbu?))","1988 Aut","Oct 13","","Nepal","M",30,TRUE,FALSE,"Fall (8700m)",1988
+"EVER","Peter Bozik","1988 Aut","Oct 17","17:30","Czechoslovakia","M",34,FALSE,FALSE,"Fall (8300m)",1988
+"EVER","Ang Phinjo Sherpa (Khumjung, Khumbu)","1989 Win","Dec 12","15:05","Nepal","M",42,FALSE,FALSE,"AMS (6500m)",1989
+"EVER","Dimitar Ilievski","1989 Spr","May 10","20:00","Yugoslavia","M",35,TRUE,TRUE,"Fall (8500m)",1989
+"EVER","Eugeniusz (Genek) Chrobak","1989 Spr","May 27","13:00","Poland","M",49,TRUE,TRUE,"Avalanche (6000m)",1989
+"EVER","Miroslaw Falco-Dasal","1989 Spr","May 27","13:00","Poland","M",36,TRUE,FALSE,"Avalanche (6000m)",1989
+"EVER","Miroslaw Gardzielewski","1989 Spr","May 27","13:00","Poland","M",35,TRUE,FALSE,"Avalanche (6000m)",1989
+"EVER","Phu Dorje Sherpa (Pangboche, Khumbu)","1989 Spr","May 16","16:00","Nepal","M",26,TRUE,TRUE,"Fall (8600m)",1989
+"EVER","Waclaw Otreba","1989 Spr","May 27","13:00","Poland","M",41,FALSE,FALSE,"Avalanche (6000m)",1989
+"EVER","Zygmunt Andrzej (Zyga) Heinrich","1989 Spr","May 27","13:00","Poland","M",51,FALSE,FALSE,"Avalanche (6000m)",1989
+"EVER","Ang Sona Sherpa","1990 Aut","Sep 12","","Nepal","M",0,TRUE,FALSE,"Avalanche (6900m)",1990
+"EVER","Badri Nath","1990 Aut","Sep 12","","Nepal","M",0,TRUE,FALSE,"Avalanche (6900m)",1990
+"EVER","Rafael Gomez-Menor Palacios","1990 Aut","Sep 12","","Spain","M",24,TRUE,FALSE,"Avalanche (6900m)",1990
+"EVER","Sang-Hun Ham","1990 Aut","Oct 07","17:00","S Korea","M",27,TRUE,FALSE,"Fall (8700m)",1990
+"EVER","Junichi Futagami","1991 Spr","May 27","13:30","Japan","M",39,TRUE,TRUE,"Fall (8830m)",1991
+"EVER","Ruediger Lang","1991 Spr","May 04","","Germany","M",35,FALSE,FALSE,"Exposure/Frostbite (7900m)",1991
+"EVER","Ang Gyalzen Sherpa","1992 Aut","Sep 09","","Nepal","M",41,FALSE,FALSE,"Other (0m)",1992
+"EVER","Ang Tshering Sherpa","1992 Win","Jan 15","","Nepal","M",0,FALSE,FALSE,"Crevasse (6300m)",1992
+"EVER","Deepak Kulkarni","1992 Spr","May 02","6:00","India","M",31,FALSE,FALSE,"Exposure/Frostbite (7800m)",1992
+"EVER","Manabu Hoshi","1992 Spr","May 23","","Japan","M",28,TRUE,FALSE,"Fall (8300m)",1992
+"EVER","Nun Thapa","1992 Aut","Dec 31","","Nepal","M",0,FALSE,FALSE,"Illness (non-AMS) (4270m)",1992
+"EVER","Raymond Jacob","1992 Spr","May 02","6:00","India","M",26,TRUE,FALSE,"Exposure/Frostbite (7900m)",1992
+"EVER","Sher Singh","1992 Spr","May 22","16:00","India","M",0,FALSE,FALSE,"Crevasse (5500m)",1992
+"EVER","Subba Singh Tamang (Sigadi, Thulo Parsel, Kavre)","1992 Spr","May 11","","Nepal","M",43,FALSE,FALSE,"Illness (non-AMS) (5350m)",1992
+"EVER","Antonio Miranda","1993 Aut","Oct 07","","Spain","M",35,TRUE,FALSE,"Fall (8300m)",1993
+"EVER","Jin-Seob An","1993 Spr","May 17","9:30","S Korea","M",25,TRUE,TRUE,"Fall (7600m)",1993
+"EVER","Karl Gordon Henize","1993 Aut","Oct 05","","United States of America","M",66,FALSE,FALSE,"AMS (6000m)",1993
+"EVER","Lobsang Tshering Bhotia","1993 Spr","May 10","","India","M",40,TRUE,TRUE,"Fall (8600m)",1993
+"EVER","Pasang Lhamu Sherpa (Surke, Khumbu & Kathmandu)","1993 Spr","Apr 23","7:30","Nepal","F",30,TRUE,TRUE,"Exhaustion (8750m)",1993
+"EVER","Sonam Tshering Sherpa (Beding, Dolakha)","1993 Spr","Apr 23","7:30","Nepal","M",33,TRUE,TRUE,"Fall (8750m)",1993
+"EVER","Won-Woo Nam","1993 Spr","May 17","","S Korea","M",27,FALSE,FALSE,"Fall (7800m)",1993
+"EVER","Fang-Fang (Norman) Shih","1994 Spr","May 09","12:00","Taiwan","M",27,TRUE,TRUE,"Exhaustion (8700m)",1994
+"EVER","Giuseppe Vigani","1994 Spr","May 15","","Italy","M",43,TRUE,FALSE,"Fall (8000m)",1994
+"EVER","Michael Anthony Rheinberger","1994 Spr","May 27","","Australia","M",53,TRUE,TRUE,"Exhaustion (8680m)",1994
+"EVER","Mingma Norbu/Nuru Sherpa (Beding, Dolakha)","1994 Aut","Sep 12","12:00","Nepal","M",24,FALSE,FALSE,"Avalanche (6750m)",1994
+"EVER","Prem Thapa","1994 Spr","Apr 06","","Nepal","M",0,FALSE,FALSE,"AMS (5150m)",1994
+"EVER","Jangbu Sherpa (Nele (Paphlu), Solukhumbu)","1995 Aut","Oct 14","","Nepal","M",28,TRUE,TRUE,"Fall (8800m)",1995
+"EVER","Kami Rita Sherpa","1995 Spr","May 06","","Nepal","M",22,FALSE,FALSE,"Fall (7100m)",1995
+"EVER","Lhakpa Nuru Sherpa (Kharikhola, Solukhumbu)","1995 Aut","Sep 10","","Nepal","M",30,FALSE,FALSE,"Avalanche (6900m)",1995
+"EVER","Xavier Lamas Miralles","1995 Aut","Dec 31","","Spain","M",32,FALSE,FALSE,"Avalanche (0m)",1995
+"EVER","Andrew Michael (Andy) Harris","1996 Spr","May 10","","New Zealand","M",31,TRUE,TRUE,"Fall (8400m)",1996
+"EVER","Bruce Herrod","1996 Spr","May 25","18:00","UK","M",37,TRUE,TRUE,"Fall (8750m)",1996
+"EVER","Dawa Sherpa (Salleri, Solukhumbu)","1996 Aut","Sep 21","","Nepal","M",35,FALSE,FALSE,"Avalanche (7800m)",1996
+"EVER","Dorje Morup","1996 Spr","May 11","","India","M",47,TRUE,TRUE,"Exposure/Frostbite (8680m)",1996
+"EVER","Douglas (Doug) Hansen","1996 Spr","May 10","","United States of America","M",46,TRUE,TRUE,"Exposure/Frostbite (8700m)",1996
+"EVER","Lobsang Jangbu Sherpa (Beding, Dolakha)","1996 Aut","Sep 21","","Nepal","M",25,FALSE,FALSE,"Avalanche (7800m)",1996
+"EVER","Nawang Dorje Sherpa (Rolwaling, Dolakha)","1996 Spr","Apr 23","","Nepal","M",0,FALSE,FALSE,"AMS (6450m)",1996
+"EVER","Reinhard Wlasich","1996 Spr","May 19","1:45","Austria","M",45,TRUE,FALSE,"AMS (8250m)",1996
+"EVER","Robert Edwin (Rob) Hall","1996 Spr","May 11","17:00","New Zealand","M",35,TRUE,TRUE,"Exposure/Frostbite (8700m)",1996
+"EVER","Scott Eugene Fischer","1996 Spr","May 11","12:00","United States of America","M",40,TRUE,TRUE,"Exposure/Frostbite (8400m)",1996
+"EVER","Tsewang Paljor","1996 Spr","May 11","","India","M",28,TRUE,TRUE,"Exposure/Frostbite (8550m)",1996
+"EVER","Tsewang Smanla","1996 Spr","May 11","","India","M",38,TRUE,TRUE,"Exposure/Frostbite (8700m)",1996
+"EVER","Yasuko Namba","1996 Spr","May 11","3:00","Japan","F",47,TRUE,TRUE,"Exposure/Frostbite (7900m)",1996
+"EVER","Yu-Nan Chen","1996 Spr","May 09","6:00","Taiwan","M",36,TRUE,FALSE,"Fall (7200m)",1996
+"EVER","Yves Bouchon","1996 Aut","Sep 21","","France","M",47,FALSE,FALSE,"Avalanche (7800m)",1996
+"EVER","Alexandre Torochin","1997 Spr","May 07","14:00","Russia","M",45,TRUE,FALSE,"Fall (8500m)",1997
+"EVER","Byung-Soo Choi","1997 Aut","Sep 08","","S Korea","M",33,FALSE,FALSE,"Avalanche (6800m)",1997
+"EVER","Ivan Plotnikov","1997 Spr","May 07","","Russia","M",36,TRUE,TRUE,"Exposure/Frostbite (8700m)",1997
+"EVER","Malcolm (Mal) Duff","1997 Spr","Apr 22","","UK","M",43,FALSE,FALSE,"Illness (non-AMS) (5350m)",1997
+"EVER","Mingmar (Mingma) Tamang (Chimding, Kerung, Solukhumbu)","1997 Spr","May 07","","Nepal","M",35,TRUE,FALSE,"Fall (8500m)",1997
+"EVER","Nikolai Chevtchenko","1997 Spr","May 07","","Russia","M",52,TRUE,TRUE,"Exposure/Frostbite (8700m)",1997
+"EVER","Nima Rinji Sherpa (Lokhim, Solukhumbu)","1997 Spr","May 06","","Nepal","M",30,FALSE,FALSE,"Fall (7600m)",1997
+"EVER","Peter Andreas Kowalzik","1997 Spr","May 08","","Germany","M",29,FALSE,FALSE,"Disappearance (8560m)",1997
+"EVER","Tenzing Nuru Sherpa (Yilajung (Thami), Khumbu)","1997 Spr","May 25","","Nepal","M",27,TRUE,TRUE,"Fall (8800m)",1997
+"EVER","Francys Distefano-Arsentiev","1998 Spr","May 24","8:45","United States of America","F",40,FALSE,TRUE,"Exposure/Frostbite (8600m)",1998
+"EVER","Mark Howard Jennings","1998 Spr","May 26","","UK","M",49,TRUE,TRUE,"AMS (8200m)",1998
+"EVER","Roger Buick","1998 Spr","May 26","","New Zealand","M",52,FALSE,FALSE,"Exposure/Frostbite (7400m)",1998
+"EVER","Sergei Anatolievich Arsentiev","1998 Spr","May 23","","Russia","M",39,FALSE,TRUE,"Disappearance (8500m)",1998
+"EVER","Michael Robert Matthews","1999 Spr","May 13","","UK","M",22,TRUE,TRUE,"Fall (8600m)",1999
+"EVER","Pascal Debrouwer","1999 Spr","May 19","","Belgium","M",29,TRUE,TRUE,"Fall (8400m)",1999
+"EVER","Tadeusz (Tadek) Kudelski","1999 Spr","May 18","17:00","Poland","M",44,TRUE,TRUE,"Fall (8600m)",1999
+"EVER","Vasili (Vazyl) Kopytko","1999 Spr","May 08","","Ukraine","M",34,FALSE,TRUE,"Exposure/Frostbite (8500m)",1999
+"EVER","Geng-Hua Yan","2000 Spr","May 21","","China","M",41,TRUE,TRUE,"Exposure/Frostbite (8750m)",2000
+"EVER","Jeppe Stoltz","2000 Spr","May 20","6:30","Denmark","M",27,FALSE,FALSE,"Fall (8500m)",2000
+"EVER","Aleksei (Alex) Nikiforov","2001 Spr","May 24","17:00","Russia","M",45,TRUE,FALSE,"AMS (8400m)",2001
+"EVER","Babu Chiri (Babu Tshering) Sherpa (Chhulemu, Taksindu, Solukhumbu)","2001 Spr","Apr 29","16:00","Nepal","M",35,FALSE,FALSE,"Crevasse (6400m)",2001
+"EVER","Mark Auricht","2001 Spr","May 24","7:00","Australia","M",37,TRUE,FALSE,"Illness (non-AMS) (7900m)",2001
+"EVER","Peter Gerfried Ganner","2001 Spr","May 23","8:00","Austria","M",57,TRUE,FALSE,"Fall (8500m)",2001
+"EVER","Santor Gardos","2001 Aut","Oct 17","","Hungary","M",38,FALSE,FALSE,"Fall (7000m)",2001
+"EVER","Marco Siffredi","2002 Aut","Sep 08","13:15","France","M",23,TRUE,TRUE,"Fall (8600m)",2002
+"EVER","Peter Legate","2002 Spr","Apr 30","6:30","UK","M",38,FALSE,FALSE,"Fall (7000m)",2002
+"EVER","Zoran Miletic","2002 Spr","May 17","","Yugoslavia","M",41,TRUE,FALSE,"Unknown (7800m)",2002
+"EVER","Arnaud Saulnier","2003 Spr","Apr 08","","France","M",30,FALSE,FALSE,"Illness (non-AMS) (5300m)",2003
+"EVER","Bhim Bahadur Gurung (Karmaiya, Sarlahi)","2003 Spr","May 27","","Nepal","M",38,TRUE,TRUE,"Crevasse (5900m)",2003
+"EVER","Jan Krysztof Liszewski","2003 Spr","May 25","","Poland","M",55,FALSE,FALSE,"Fall (7600m)",2003
+"EVER","Karma Gyalzen Sherpa (Kurima, Sotang, Solukhumbu)","2003 Spr","May 24","19:30","Nepal","M",28,FALSE,FALSE,"AMS (6000m)",2003
+"EVER","Hristo Ganchev Hristov","2004 Spr","May 20","","Bulgaria","M",26,FALSE,TRUE,"Exhaustion (8600m)",2004
+"EVER","Joon-Ho Baek","2004 Spr","May 18","","S Korea","M",36,TRUE,FALSE,"Exhaustion (8500m)",2004
+"EVER","Mariana Prodanova Maslarova","2004 Spr","May 23","17:30","Bulgaria","F",43,TRUE,FALSE,"Disappearance (8700m)",2004
+"EVER","Min Jang","2004 Spr","May 18","","S Korea","M",26,TRUE,TRUE,"Exhaustion (8700m)",2004
+"EVER","Mu-Taek Park","2004 Spr","May 18","","S Korea","M",34,TRUE,TRUE,"Exposure/Frostbite (8500m)",2004
+"EVER","Nils P. Antezana","2004 Spr","May 18","","United States of America","M",69,TRUE,TRUE,"Exhaustion (8500m)",2004
+"EVER","Shoko Ota","2004 Spr","May 20","","Japan","F",63,TRUE,TRUE,"Fall (8600m)",2004
+"EVER","Dieter Kramer","2005 Spr","Jun 04","","Germany","M",49,TRUE,FALSE,"Illness (non-AMS) (8000m)",2005
+"EVER","Marko Lihteneker","2005 Spr","May 21","","Slovenia","M",35,TRUE,TRUE,"Fall (8600m)",2005
+"EVER","Michael Corey O'Brien","2005 Spr","May 02","12:00","United States of America","M",39,FALSE,FALSE,"Crevasse (5800m)",2005
+"EVER","Robert William (Rob) Milne","2005 Spr","Jun 05","2:30","UK","M",48,TRUE,FALSE,"Illness (non-AMS) (8200m)",2005
+"EVER","Sean Egan","2005 Spr","Apr 28","","Canada","M",63,FALSE,FALSE,"Illness (non-AMS) (4600m)",2005
+"EVER","Sirigereshiva Shankarappa Chaitanya","2005 Spr","May 30","","India","M",31,TRUE,TRUE,"Fall (8700m)",2005
+"EVER","David W. Sharp","2006 Spr","May 15","","UK","M",34,TRUE,FALSE,"Exhaustion (8500m)",2006
+"EVER","Dawa Temba Sherpa (Thamo, Khumbu)","2006 Spr","Apr 21","7:30","Nepal","M",21,FALSE,FALSE,"Icefall Collapse (5800m)",2006
+"EVER","Igor Plyushkin","2006 Spr","May 22","11:30","Russia","M",54,TRUE,FALSE,"AMS (7800m)",2006
+"EVER","Jacques-Hughes Letrange","2006 Spr","May 17","18:00","France","M",39,TRUE,TRUE,"Exhaustion (8600m)",2006
+"EVER","Lhakpa Tshering/Chhiring Sherpa (Mende (Thamo), Khumbu)","2006 Spr","Apr 21","7:30","Nepal","M",35,FALSE,FALSE,"Icefall Collapse (5800m)",2006
+"EVER","Sri Kishan","2006 Spr","May 14","14:15","India","M",27,TRUE,TRUE,"Fall (8400m)",2006
+"EVER","Tenzing Phinzo (Ang Phintso) Sherpa (Phortse, Khumbu)","2006 Spr","Apr 21","7:30","Nepal","M",53,FALSE,FALSE,"Icefall Collapse (5800m)",2006
+"EVER","Thomas Weber","2006 Spr","May 25","10:00","Germany","M",41,TRUE,FALSE,"Illness (non-AMS) (8700m)",2006
+"EVER","Tomas Kenneth Olsson","2006 Spr","May 16","11:45","Sweden","M",30,TRUE,TRUE,"Fall (8500m)",2006
+"EVER","Tuk Bahadur Thapa Magar","2006 Spr","Apr 04","23:40","Nepal","M",32,FALSE,FALSE,"AMS (7000m)",2006
+"EVER","Vitor Negrete","2006 Spr","May 19","2:00","Brazil","M",38,FALSE,TRUE,"AMS (8500m)",2006
+"EVER","Dawa Sherpa (Mera, Kanku-9, Solukhumbu)","2007 Spr","Apr 26","","Nepal","M",46,FALSE,FALSE,"Falling Rock/Ice (7200m)",2007
+"EVER","Hee-Joon Oh","2007 Spr","May 16","1:45","S Korea","M",36,TRUE,FALSE,"Avalanche (7700m)",2007
+"EVER","Hyun-Jo Lee","2007 Spr","May 16","1:45","S Korea","M",34,TRUE,FALSE,"Avalanche (7700m)",2007
+"EVER","Libor Kozak","2007 Spr","May 16","8:30","Czech Republic","M",47,TRUE,FALSE,"AMS (8300m)",2007
+"EVER","Pierangelo Maurizio","2007 Spr","May 17","15:00","Italy","M",51,TRUE,TRUE,"Disappearance (8800m)",2007
+"EVER","Shinichi Ishii","2007 Spr","May 15","","Japan","M",63,TRUE,TRUE,"AMS (8650m)",2007
+"EVER","Yasuhiko Mochizuki","2007 Spr","May 16","","Japan","M",47,FALSE,FALSE,"Unknown (7700m)",2007
+"EVER","Uwe Micha Johannes (Gianni) Goltz","2008 Spr","May 22","1:30","Switzerland","M",44,TRUE,TRUE,"Exhaustion (8100m)",2008
+"EVER","Frank Ziebarth","2009 Spr","May 21","","Germany","M",29,FALSE,TRUE,"AMS (8700m)",2009
+"EVER","Kazi Lama Sherpa (Taksindu-3, Solukhumbu)","2009 Spr","May 11","","Nepal","M",29,FALSE,FALSE,"Illness (non-AMS) (5300m)",2009
+"EVER","Lhakpa Nuru Sherpa (Phurte, Khumbu)","2009 Spr","May 07","10:30","Nepal","M",33,FALSE,FALSE,"Avalanche (5700m)",2009
+"EVER","Veslav Chrzaszcz","2009 Spr","May 18","19:00","Czech Republic","M",47,FALSE,FALSE,"Illness (non-AMS) (7000m)",2009
+"EVER","Wen-Hong Wu","2009 Spr","May 19","4:00","China","M",40,TRUE,TRUE,"AMS (8750m)",2009
+"EVER","Hiroshi Ogasawara","2010 Spr","May 25","1:30","Japan","M",62,TRUE,TRUE,"Exhaustion (8400m)",2010
+"EVER","Laszlo Alfred (Konyi) Varkonyi","2010 Spr","Apr 26","12:00","Hungary","M",53,FALSE,FALSE,"Avalanche (6800m)",2010
+"EVER","Peter Kinloch","2010 Spr","May 26","2:00","UK","M",28,TRUE,TRUE,"Exhaustion (8600m)",2010
+"EVER","John Delaney","2011 Spr","May 21","4:30","Ireland","M",42,TRUE,FALSE,"Exhaustion (8750m)",2011
+"EVER","Rick Howe Hitch","2011 Spr","May 01","","United States of America","M",55,FALSE,FALSE,"Illness (non-AMS) (7300m)",2011
+"EVER","Shailendra Kumar Upadhyay","2011 Spr","May 09","16:00","Nepal","M",81,FALSE,FALSE,"AMS (5600m)",2011
+"EVER","Takashi Ozaki","2011 Spr","May 12","14:45","Japan","M",58,TRUE,FALSE,"AMS (8600m)",2011
+"EVER","Dawa Tenzing (Da Tenzing) Sherpa (Phortse, Khumbu)","2012 Spr","May 01","","Nepal","M",41,FALSE,FALSE,"Illness (non-AMS) (6200m)",2012
+"EVER","Erich Eberhard Schaaf","2012 Spr","May 19","15:00","Germany","M",61,TRUE,TRUE,"AMS (8760m)",2012
+"EVER","Juan Jose Polo Carbayo","2012 Spr","May 20","","Spain","M",43,TRUE,TRUE,"Exhaustion (8500m)",2012
+"EVER","Karsang Namgyal/Namgel Sherpa (Thami, Khumbu)","2012 Spr","Apr 17","","Nepal","M",40,FALSE,FALSE,"Illness (non-AMS) (5350m)",2012
+"EVER","Namgyal Tshering (Namgyal Chhiri) Sherpa (Khumjung, Khumbu)","2012 Spr","Apr 21","","Nepal","M",29,FALSE,FALSE,"Crevasse (6200m)",2012
+"EVER","Ralf Dieter Arnold","2012 Spr","May 20","","Germany","M",41,FALSE,TRUE,"Fall (8700m)",2012
+"EVER","Ramesh Narad Gulave","2012 Spr","Apr 20","","India","M",33,FALSE,FALSE,"Illness (non-AMS) (5350m)",2012
+"EVER","Shriya Shah-Klorfine","2012 Spr","May 19","","Canada","F",33,TRUE,TRUE,"Exhaustion (8400m)",2012
+"EVER","Wen-Yi Ha","2012 Spr","May 19","","China","M",54,TRUE,TRUE,"Exhaustion (8400m)",2012
+"EVER","Won-Bin Song","2012 Spr","May 19","","S Korea","M",44,TRUE,TRUE,"AMS (8400m)",2012
+"EVER","Alexei Bolotov","2013 Spr","May 15","","Russia","M",50,FALSE,FALSE,"Fall (5400m)",2013
+"EVER","Da Rita Sherpa (Phortse, Khumbu)","2013 Spr","May 05","","Nepal","M",36,FALSE,FALSE,"Illness (non-AMS) (7300m)",2013
+"EVER","Lobsang Sherpa (Kharikhola, Solukhumbu)","2013 Spr","May 07","","Nepal","M",22,FALSE,FALSE,"Fall (7500m)",2013
+"EVER","Mingma Sherpa (Tapting, Solukhumbu)","2013 Spr","Apr 07","","Nepal","M",44,FALSE,FALSE,"Crevasse (5800m)",2013
+"EVER","Mohammed Khalid Hossain","2013 Spr","May 21","5:00","Bangladesh","M",36,FALSE,TRUE,"AMS (8000m)",2013
+"EVER","Namgyal Sherpa (Rakha Bangdel-5, Khotang)","2013 Spr","May 16","8:00","Nepal","M",35,TRUE,TRUE,"Illness (non-AMS) (8200m)",2013
+"EVER","Sergey Ponomarev","2013 Spr","May 05","","Russia","M",43,FALSE,FALSE,"Other (6500m)",2013
+"EVER","Sung-Ho Seo","2013 Spr","May 21","5:00","S Korea","M",33,FALSE,TRUE,"AMS (8000m)",2013
+"EVER","Aash Bahadur Gurung (Laprak-7, Gorkha)","2014 Spr","Apr 18","6:45","Nepal","M",0,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Ang Kazi (Ankaji) Sherpa (Chitre, Sisuwa-9, Makalu-Barun)","2014 Spr","Apr 18","6:45","Nepal","M",35,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Ang Tshiri Sherpa (Thamo, Khumbu)","2014 Spr","Apr 18","6:45","Nepal","M",60,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Chhewang Sherpa (Nunthala, Solukhumbu)","2014 Spr","May 01","","Nepal","M",19,FALSE,FALSE,"Other (0m)",2014
+"EVER","Chhiring Ongchu Sherpa (Khumjung, Khumbu)","2014 Spr","Apr 18","6:45","Nepal","M",33,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Dorje Khatri","2014 Spr","Apr 18","6:45","Nepal","M",45,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Dorje Sherpa (Namche-6, Khumbu)","2014 Spr","Apr 18","6:45","Nepal","M",49,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Lhakpa Tenjing Sherpa (Khumjung, Khumbu)","2014 Spr","Apr 18","6:45","Nepal","M",24,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Mingma Nuru Sherpa (Namche-4, Khumbu)","2014 Spr","Apr 18","6:45","Nepal","M",31,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Mingma Tenzing Sherpa (Namche Bazar, Khumbu)","2014 Spr","Apr 02","","Nepal","M",26,FALSE,FALSE,"AMS (5350m)",2014
+"EVER","Ngima Sherpa (Taksindu-3, Solukhumbu)","2014 Spr","Apr 18","6:45","Nepal","M",27,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Pasang Karma Sherpa (Bupsa, Jubing-5, Solukhumbu)","2014 Spr","Apr 18","6:45","Nepal","M",38,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Pem Tenji Sherpa (Chheskam-2, Solukhumbu)","2014 Spr","Apr 18","6:45","Nepal","M",0,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Phur Temba Sherpa (Yaphu-9, Makalu-Barun)","2014 Spr","Apr 18","6:45","Nepal","M",24,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Phurba Ongyal Sherpa (Pangboche, Khumbu)","2014 Spr","Apr 18","6:45","Nepal","M",25,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Tenzing Chhetar Sherpa (Yilajung, Khumbu)","2014 Spr","Apr 18","6:45","Nepal","M",25,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Thendorje (Thendu Dorje) Sherpa (Pangboche, Khumbu)","2014 Spr","Apr 18","6:45","Nepal","M",30,FALSE,FALSE,"Avalanche (5800m)",2014
+"EVER","Chhimi Dawa Sherpa (Bung-9, Solukhumbu)","2015 Spr","Apr 25","11:55","Nepal","M",47,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Daniel Paul (Dan) Fredinberg","2015 Spr","Apr 25","11:50","United States of America","M",33,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Dawa Chhiri Sherpa (Chaurikharka-2, Khumbu)","2015 Spr","Apr 25","11:55","Nepal","M",25,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Jangbu Sherpa (Taksindu-5, Solukhumbu)","2015 Spr","Apr 25","11:55","Nepal","M",53,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Krishna Kumar Kulung Rai","2015 Spr","Apr 25","11:55","Nepal","M",32,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Lhakpa Chhiring Sherpa (Khunde, Khumbu)","2015 Spr","Apr 25","11:50","Nepal","M",33,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Maila Rai","2015 Spr","Apr 25","11:55","Nepal","M",41,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Marisa Eve Girawong","2015 Spr","Apr 25","11:55","United States of America","F",28,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Pasang Temba Sherpa (Tengboche, Khumbu)","2015 Spr","Apr 25","11:55","Nepal","M",62,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Pemba Sherpa (Taksindu-5, Solukhumbu)","2015 Spr","Apr 25","11:55","Nepal","M",19,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Pemba Yishi (Hissi) Sherpa (Bung-9, Solukhumbu)","2015 Spr","Apr 25","11:55","Nepal","M",33,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Renu Fotedar","2015 Spr","Apr 25","11:50","Australia","F",59,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Shiva Kumar Shrestha","2015 Spr","Apr 25","11:55","Nepal","M",25,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Tenjin Bhote (Chepuwa-1, Makalu-Barun)","2015 Spr","Apr 24","11:55","Nepal","M",29,FALSE,FALSE,"Avalanche (5350m)",2015
+"EVER","Eric Ary Arnold","2016 Spr","May 20","9:00","Netherlands","M",36,TRUE,TRUE,"AMS (7900m)",2016
+"EVER","Goutam Ghosh","2016 Spr","May 21","","India","M",50,TRUE,FALSE,"Disappearance (8700m)",2016
+"EVER","Maria Elizabeth Strydom","2016 Spr","May 21","10:30","Australia","F",34,TRUE,FALSE,"AMS (7800m)",2016
+"EVER","Paresh Chandra Nath","2016 Spr","May 21","","India","M",58,TRUE,FALSE,"Disappearance (8700m)",2016
+"EVER","Subhas Paul","2016 Spr","May 21","","India","M",43,TRUE,TRUE,"Exhaustion (8760m)",2016
+"EVER","Francesco Enrico (Frank) Marchetti","2017 Spr","May 21","","Australia","M",53,TRUE,FALSE,"AMS (8220m)",2017
+"EVER","Goht Khuber Rai","2017 Spr","May 27","","Nepal","M",0,FALSE,FALSE,"Illness (non-AMS) (5350m)",2017
+"EVER","Min Bahadur Sherchan","2017 Spr","May 06","17:14","Nepal","M",85,FALSE,FALSE,"Illness (non-AMS) (5350m)",2017
+"EVER","Ravi Kumar","2017 Spr","May 20","20:00","India","M",26,TRUE,TRUE,"Exhaustion (8400m)",2017
+"EVER","Roland Anthony Yearwood","2017 Spr","May 20","23:59","United States of America","M",50,TRUE,FALSE,"AMS (8400m)",2017
+"EVER","Vladimir (Vlado) Strba","2017 Spr","May 21","17:00","Slovakia","M",48,FALSE,FALSE,"AMS (7900m)",2017
+"EVER","Damai Sarki Sherpa (Jubing-5, Solukhumbu)","2018 Spr","May 21","17:00","Nepal","M",30,TRUE,TRUE,"Crevasse (6440m)",2018
+"EVER","Georgi Petkov","2018 Spr","May 20","14:00","Macedonia","M",62,TRUE,FALSE,"Illness (non-AMS) (7500m)",2018
+"EVER","Lama Babu Sherpa (Sakpharma, Lokhim-9, Solukhumbu)","2018 Spr","May 14","","Nepal","M",48,TRUE,TRUE,"Fall (8750m)",2018
+"EVER","Nobukazu Kuriki","2018 Spr","May 20","23:30","Japan","M",35,FALSE,FALSE,"Fall (7200m)",2018
+"EVER","Pasang Nuru Sherpa (Kharikhola, Solukhumbu)","2018 Spr","May 17","","Nepal","M",40,TRUE,FALSE,"Exhaustion (8550m)",2018
+"EVER","Anjali Sharad Kulkarni","2019 Spr","May 22","","India","F",53,TRUE,FALSE,"Exhaustion (8400m)",2019
+"EVER","Christopher Jon Kulish","2019 Spr","May 27","16:00","United States of America","M",62,TRUE,TRUE,"AMS (7900m)",2019
+"EVER","Dhruba Bista","2019 Spr","May 24","","Nepal","M",32,TRUE,FALSE,"AMS (7100m)",2019
+"EVER","Donald Lynn Cash","2019 Spr","May 22","","United States of America","M",54,TRUE,TRUE,"Exhaustion (8760m)",2019
+"EVER","Ernst Landgraf","2019 Spr","May 23","","Austria","M",64,TRUE,TRUE,"Fall (8680m)",2019
+"EVER","Kalpana Dash","2019 Spr","May 23","","India","F",52,TRUE,TRUE,"Exhaustion (8400m)",2019
+"EVER","Kevin Gerard Hynes","2019 Spr","May 23","","Ireland","M",56,TRUE,FALSE,"Exhaustion (7000m)",2019
+"EVER","Nihal Ashpak Bagwan","2019 Spr","May 23","","India","M",26,TRUE,TRUE,"Exhaustion (7900m)",2019
+"EVER","Ravi Thakur","2019 Spr","May 16","11:00","India","M",27,TRUE,TRUE,"AMS (7900m)",2019
+"EVER","Robin Haynes Fisher","2019 Spr","May 25","","UK","M",44,TRUE,TRUE,"AMS (8700m)",2019
+"EVER","Seamus Sean Lawless","2019 Spr","May 16","16:00","Ireland","M",39,TRUE,TRUE,"Fall (7900m)",2019
