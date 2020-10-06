@@ -9,9 +9,7 @@ library(glue)
 
 ####################################################
 # prepare data 
-if(getwd() != "C:/Users/lilit/OneDrive/Documents/R/liliprojects/everest"){
-  setwd("everest")
-}
+
 
 expd_filepath <- "Everest_Peak_Expeditions_Report_1980-2019.csv"
 expeditions <- read.csv(paste("clean_data/", expd_filepath, sep = "")) 
