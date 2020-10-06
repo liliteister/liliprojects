@@ -98,8 +98,8 @@ ui <- fluidPage(theme = shinytheme("yeti"),
         sidebarPanel(
           position = "top",
           h5(strong("Expeditions to summit Mt Everest have risen dramatically in recent years.")),
-          h5("Much of this trend is a due to the hire of commercial expeditions by wealthy, international climbers and tourists seeking adventure and achievement conquering the worlds most famous peak."),
-          h5("Explore the Himalayan Database's Mt Everest expedition data to learn more about the successes and failures of these expeditions.")
+          h5("Large, commercial expeditions have been popularized, as international climbers and tourists seek the adventure and achievement conquering the world's most famous peak."),
+          h5("This project explores the Himalayan Databases's expedition and climber data in recent decades.")
           ),
         mainPanel(
           tabsetPanel(
@@ -108,9 +108,9 @@ ui <- fluidPage(theme = shinytheme("yeti"),
                      highchartOutput("expd_plot",
                                      width = "100%",
                                      height = "100%"),
-                     h6(em("*An avalanche resulting from the 2015 earthquake in Nepal put a halt to the climbing season that year")),
+                     h6(em("*An avalanche resulting from the 2015 earthquake in Nepal put a halt to that climbing season.")),
                      br(),
-                     h4("Expeditions to Mt Everest's peak have been attempted since 1921, long before the first successful summit in 1953, and becoming more popular after Edmund Hillary's success, particularly since the 1980s. "),
+                     h4("Expeditions to Mt Everest's peak have been attempted since 1921, long before the first successful summit by Edmund Hillary in 1953, and become more popular since, particularly since the 1980s. "),
                      h4("Now, hundreds of climbers attempt each season, raising concern about maintaining a safe and balanced environment.")
             ),
             tabPanel("Ascents",
@@ -118,9 +118,9 @@ ui <- fluidPage(theme = shinytheme("yeti"),
                      highchartOutput("ascents",
                                      width = "100%",
                                      height = "600px"),
-                     h4(paste("While tourists climbers come from countries across the world, they require the assistance of local sherpas to assist climbers with gear, routes, and often even carrying climbers. ",
-                              glue("Since 1980, {Nepalese_hired_pcnt_asc}% of summits were by Nepalese climbers hired to assist international climbers."))),
-                     h4("Many sherpas are in fact ethnic Nepali Sherpa, who have origins in Tibet and reside in the Himalayan region of Nepal. They have been vital to the success of recreational mountaineering in the Himalayas since it began."),
+                     h4(paste("Climbers hail from all over the world, but they require the assistance of local sherpas to assist with gear, routes, and even carrying climbers up or down the mountain. ",
+                              glue("Since 1980, {Nepalese_hired_pcnt_asc}% of summits were by Nepalese climbers hired to assist an expedition."))),
+                     h4("Many sherpas are ethnic Nepali Sherpa, who have origins in Tibet and reside in the Himalayan region of Nepal. They have been vital to the success of recreational mountaineering in the Himalayas since it began."),
                      br(),
                      highchartOutput("ascents_sex",
                                      width = "50%"),
@@ -128,7 +128,7 @@ ui <- fluidPage(theme = shinytheme("yeti"),
                      br(),
                      highchartOutput("ascents_age",
                                      width = "50%"),
-                     h4("Advancing technology and preparation has allowed a variety of climbers to succeed in this feat."),
+                     h4("Advancing technology and preparation has allowed a variety of climbers to be successful."),
                      br(),
                      br()
             ),
@@ -150,11 +150,14 @@ ui <- fluidPage(theme = shinytheme("yeti"),
       )
       ),
     tabPanel("Info",
-             h4("More information about this data...in progress"),
-             p("https://www.himalayandatabase.com/online.html"),
-             p("https://www.washingtonpost.com/world/2019/05/24/mount-everest-has-gotten-so-crowded-that-climbers-are-perishing-traffic-jams/"),
-             p("https://www.britannica.com/topic/Sherpa-people"),
-             p("https://www.pbs.org/wgbh/nova/everest/history/firstwoo2.html#:~:text=Sometime%20between%201%20and%202,myself%20and%20to%20my%20eyesight."))
+             h4("Resources"),
+             p('"Peak Ascents Report", The Himalayan Database. The Himalayan Database: A Non-Profit Organization. Updated July 2020. https://www.himalayandatabase.com/Online/peaksmtr.html'),
+             p('"Peak Deaths Report", The Himalayan Database. The Himalayan Database: A Non-Profit Organization. Updated July 2020. https://www.himalayandatabase.com/Online/peakdead.html'),
+             p('"Peak Expeditions Report", The Himalayan Database. The Himalayan Database: A Non-Profit Organization. Updated July 2020. https://www.himalayandatabase.com/Online/peakexp.html'),
+             p('"Peak Member Statistial Summary", The Himalayan Database. The Himalayan Database: A Non-Profit Organization. Updated July 2020. https://www.himalayandatabase.com/Online/peakmstat.html'),
+             p("O'Grady, Siobhan. 'Mount Everest has gotten so crowded that climbers are perishing in the traffic jams.' The Washington Post. May 25, 2019. https://www.washingtonpost.com/world/2019/05/24/mount-everest-has-gotten-so-crowded-that-climbers-are-perishing-traffic-jams/"),
+             p("The Editors of Encyclopaedia Britannica. 'Sherpa.' Encyclopædia Britannica. Encyclopædia Britannica, inc. September 12, 2019. https://www.britannica.com/topic/Sherpa-people"),
+             p("(Henry Cecil) John Hunt, Wilfrid Noyce and Others. 'Mount Everest: Extraordinary Feats.' Encyclopædia Britannica. Encyclopædia Britannica, inc. April 09, 2020. https://www.britannica.com/place/Mount-Everest/Extraordinary-feats"))
     
   )
 )
