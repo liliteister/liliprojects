@@ -41,6 +41,26 @@ write.csv(expeditions,
   row.names = FALSE
 )
 
+### functions
+separate_dual_citizens <- function(df, citizen_col){
+  
+  df_out <- df
+  
+  dual_citizens <- df_out[grepl("/", df_out[[citizen_col]]),]
+  
+  df_out[[citizen_col]] <- gsub("/..*", "", df_out[[citizen_col]])
+  
+  dual_citizens[[citizen_col]] <- gsub("..*/", "", dual_citizens[[citizen_col]])
+  
+  df_out <- rbind(
+    df_out,
+    dual_citizens
+  )
+  
+  return(df_out)
+  
+}
+
 #ascents-----------------------------------------------------------
 
 summ_filepath <- "Everest_Peak_Ascent_Report_1980-2019.csv"
@@ -64,19 +84,7 @@ ascents <- read.csv(paste("raw_data/", summ_filepath, sep = "")) %>%
   rename(Season = `Yr.Seas`) 
   
 
-#separate out dual-citizenship people
-dual_citizens <- ascents[grepl("/", ascents$Citizenship),]
-
-#remove the second country from dual citizens in first dataset
-ascents$Citizenship <-  gsub("/..*", "", ascents$Citizenship)
-
-#remove the first country from the dual citizens parsed out
-dual_citizens$Citizenship <- gsub("..*/", "", dual_citizens$Citizenship)
-
-ascents <- rbind(
-  ascents,
-  dual_citizens
-) %>%
+ascents <- separate_dual_citizens(ascents, "Citizenship") %>%
   mutate( # rename countries to align with highcharter worldgeojson
     Citizenship = case_when(
       Citizenship == "USA" ~ "United States of America",
@@ -116,17 +124,9 @@ deaths <- read.csv(paste("raw_data/", death_filepath, sep = "")) %>%
   ) %>%
   rename(Season = `Yr.Seas`) 
 
-#separate out dual-citizenship people
-dual_citizens <- deaths[grepl("/", deaths$Citizenship),]
 
-deaths$Citizenship <-  gsub("/..*", "", deaths$Citizenship)
 
-dual_citizens$Citizenship <- gsub("..*/", "", dual_citizens$Citizenship)
-
-deaths <- rbind(
-  deaths,
-  dual_citizens
-) %>%
+deaths <- separate_dual_citizens(deaths, "Citizenship") %>%
   mutate( 
     Citizenship = case_when(
       Citizenship == "USA" ~ "United States of America",
@@ -148,17 +148,8 @@ members_filepath <- "Everest_Total_Membership_1980-2019.csv"
 
 membership <- read.csv(paste("raw_data/", members_filepath, sep = ""))
 
-# separate out dual-citizens to count for both countries
-dual_citizens <- membership[grepl("/", membership$Citizenship),]
 
-membership$Citizenship <-  gsub("/..*", "", membership$Citizenship)
-
-dual_citizens$Citizenship <- gsub("..*/", "", dual_citizens$Citizenship)
-
-membership <- rbind(
-  membership,
-  dual_citizens
-) %>%
+membership <- separate_dual_citizens(membership, "Citizenship") %>%
   mutate( 
     Citizenship = case_when(
       Citizenship == "USA" ~ "United States of America",
@@ -185,4 +176,33 @@ write.csv(membership,
           paste("clean_data/", members_filepath, sep = ""),
           row.names = FALSE
 )
+
+
+# -------------------------------------- membership by year
+
+members_filepath <- "Everst_Membership_Yearly.csv"
+
+membership <- read.csv(paste("raw_data/", members_filepath, sep = "")) 
+
+
+membership_duals <- separate_dual_citizens(membership, "Citizenship") %>%
+  mutate( # rename countries
+    Citizenship = case_when(
+      Citizenship == "USA" ~ "United States of America",
+      TRUE ~ Citizenship
+    )
+  )
+
+write.csv(membership,
+          paste("clean_data/", members_filepath, sep = ""),
+          row.names = FALSE
+)
+
+write.csv(membership_duals,
+          paste("clean_data/", "Everest_Membership_Yearly_SplitDualCitizen.csv",  sep = ""),
+          row.names = FALSE
+)
+
+
+
 
