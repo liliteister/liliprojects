@@ -203,6 +203,25 @@ write.csv(membership_duals,
           row.names = FALSE
 )
 
+# --------- country mapping reference for dual-citizenship that is separated
 
+dual_rows <- rbind(
+  membership[grepl("/", membership$Citizenship),] %>%
+    mutate(NewCitizenship = gsub("/..*", "", Citizenship)),
+  membership[grepl("/", membership$Citizenship),] %>%
+    mutate(NewCitizenship = gsub("..*/", "", Citizenship))
+) %>%
+  select(Citizenship, NewCitizenship) %>%
+  distinct(Citizenship, NewCitizenship) %>%
+  mutate(
+    NewCitizenship = case_when(
+      NewCitizenship == "USA" ~ "United States of America",
+      TRUE ~ NewCitizenship
+    )
+  )
 
+write.csv(dual_rows,
+          paste("clean_data/", "Dual_Citizenship_Reference.csv",  sep = ""),
+          row.names = FALSE
+)
 
