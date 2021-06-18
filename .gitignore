@@ -3,4 +3,16 @@
 *.RData
 *.Ruserdata
 *.dcf
+*.csv
+*.shp
+*.dfb
+*.dbf
+*.htm
+*.prj
+*.sbn
+*.sbx
+*.xml
+*.shx
+*.cpg
+.ipynb_checkpoints/
 .Rproj.user
