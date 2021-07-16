@@ -1,0 +1,3 @@
+ECHO Generating file...
+"C:/Users/lilit/miniconda3/envs/pyenv/python.exe" "c:/Users/lilit/OneDrive/Documents/R/liliprojects/KPIs/generate_random_KPIs.py"
+PAUSE
