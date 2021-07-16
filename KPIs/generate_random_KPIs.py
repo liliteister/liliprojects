@@ -9,7 +9,7 @@ def get_days_list(start_date, num_days):
     delta = end_date - start_date
 
     for i in range(delta.days):
-        day = sdate + dt.timedelta(days=i)
+        day = start_date + dt.timedelta(days=i)
         dates.append(day)
 
     return dates
