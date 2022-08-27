@@ -1,4 +1,3 @@
-from itertools import product
 from dash import Dash, html, dcc, dash_table
 import dash_bootstrap_components as dbc
 import warnings
