@@ -20,3 +20,5 @@
 .ipynb_checkpoints/
 .Rproj.user
 *.vscode
+*.db
+__pycache__/
