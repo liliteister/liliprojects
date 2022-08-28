@@ -11,7 +11,7 @@ datafile = 'static/supermarket_sales.csv'
 database = 'supermarket_webapp.db'
 table_name = 'invoicesFact'
 
-app = Dash(__name__, external_stylesheets=[dbc.themes.PULSE],suppress_callback_exceptions=True)
+app = Dash(__name__, external_stylesheets=[dbc.themes.LITERA],suppress_callback_exceptions=True)
 app.layout = layout
 
 @app.callback(
